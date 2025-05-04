@@ -30,7 +30,7 @@ With this repo, I can:
 
 ## 🌟 Inspired By
 
-This project is **inspired by [Aiyeola's GitHub](https://github.com/aiyeola)** – a developer whose style and learning approach motivated me to start my own centralized framework playground.
+This project is **inspired by [Victor Aiyeola](https://github.com/aiyeola)** – a developer whose style and learning approach motivated me to start my own centralized framework playground.
 
 ---
 
